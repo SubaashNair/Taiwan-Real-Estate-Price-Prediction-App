@@ -31,6 +31,15 @@ The Random Forest Regression model was selected based on its balance between per
 ## Outcome
 The final Random Forest model demonstrates the ability to predict real estate prices with reasonable accuracy. The model was deployed via a Gradio app, providing a user-friendly interface for interactive predictions.
 
+## App Interface
+
+Below is a screenshot of the web application interface:
+
+![App Screenshot](images/app.png)
+
+This image shows the Gradio web interface for the real estate price prediction model, demonstrating the input fields and prediction output.
+
+
 ## How to Use
 To use the prediction app:
 1. Clone the repository to your local machine.
